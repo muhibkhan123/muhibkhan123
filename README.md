@@ -147,6 +147,14 @@ Beyond the code and algorithms, I bring a suite of soft skills crucial for colla
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div
+
+---
+
 ## ✨ Let's Build the Future Together!
 
 I'm always excited to connect with fellow innovators, explore new challenges, and collaborate on projects that make a difference. Feel free to reach out via email!
